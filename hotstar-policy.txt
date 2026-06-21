@@ -30,3 +30,5 @@ live14p.hotstar.com
 live11p.akt.hotstar-cdn.net
 live12p.akt.hotstar-cdn.net
 tailor.akt.hotstar-cdn.net
+ipleak.net
+www.ipleak.net
